@@ -24,7 +24,7 @@ const App = (props) => {
         onClick={() => setToValue(counter + 1)}
         text='+'
       />
-			<Button
+	  	<Button
         onClick={() => setToValue(0)}
         text='&#x21ba;'
       />
